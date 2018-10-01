@@ -5,8 +5,8 @@ export default class Navigation extends Component {
     return (
       <nav className="navigation">
         <ul>
-          <li>What?</li>
-          <li>+ New Game</li>
+          <li><a href="#">What?</a></li>
+          <li><a href="#">+ New Game</a></li>
         </ul>
       </nav>
     );
