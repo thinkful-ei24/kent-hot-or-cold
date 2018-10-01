@@ -6,7 +6,7 @@ export default class Infobox extends Component {
     return (
       <section className="game">
 
-        <h2>Make your Guess!</h2>
+        <h2 id="feedback">Make your Guess!</h2>
 
         <form>
           <input type="text" name="userGuess" id="userGuess" className="text" maxLength="3" autoComplete="off" placeholder="Enter your Guess" required/>
