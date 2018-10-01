@@ -12,11 +12,6 @@ class App extends Component {
         <Infobox />
         <Logo />
         <Game />
-        {/* Navigation
-          InfoBox?
-          Logo
-          Game
-          GuessList */}
       </div>
     );
   }
