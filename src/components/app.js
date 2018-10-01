@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
-import Navigation from './components/navigation';
-import Infobox from './components/infobox';
-import Logo from './components/logo';
-import Game from './components/game';
+import Navigation from './navigation';
+import Infobox from './infobox';
+import Logo from './logo';
+import Game from './game';
 
 class App extends Component {
   render() {
